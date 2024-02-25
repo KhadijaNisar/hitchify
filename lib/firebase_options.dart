@@ -50,19 +50,19 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDPSbaaIQaZA-4CdBU-KfdHar_bNI-iJkU',
-    appId: '1:125354707817:web:be9c7aac6d3ccb32d50bf8',
-    messagingSenderId: '125354707817',
-    projectId: 'hitchify-pooling',
-    authDomain: 'hitchify-pooling.firebaseapp.com',
-    storageBucket: 'hitchify-pooling.appspot.com',
+    apiKey: 'AIzaSyBnEN_M-uvnHhiRqSQewZBU5iTV2e9PxfU',
+    appId: '1:632782991611:web:dae00d22b00c08a80a405e',
+    messagingSenderId: '632782991611',
+    projectId: 'poolingapp-409408',
+    authDomain: 'poolingapp-409408.firebaseapp.com',
+    storageBucket: 'poolingapp-409408.appspot.com',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDzIJNbXo5yBAbM2Cuu9t_3tXBuAYnqUqM',
-    appId: '1:125354707817:android:ec98d226555a7069d50bf8',
-    messagingSenderId: '125354707817',
-    projectId: 'hitchify-pooling',
-    storageBucket: 'hitchify-pooling.appspot.com',
+    apiKey: 'AIzaSyC1p2Qo9JlMs63Q4ZERukJ7LMps7vB50d4',
+    appId: '1:632782991611:android:160c695cd8a308610a405e',
+    messagingSenderId: '632782991611',
+    projectId: 'poolingapp-409408',
+    storageBucket: 'poolingapp-409408.appspot.com',
   );
 }

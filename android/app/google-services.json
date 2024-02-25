@@ -1,26 +1,110 @@
 {
   "project_info": {
-    "project_number": "125354707817",
-    "project_id": "hitchify-pooling",
-    "storage_bucket": "hitchify-pooling.appspot.com"
+    "project_number": "632782991611",
+    "project_id": "poolingapp-409408",
+    "storage_bucket": "poolingapp-409408.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:125354707817:android:ec98d226555a7069d50bf8",
+        "mobilesdk_app_id": "1:632782991611:android:ba24e3c981de6cea0a405e",
         "android_client_info": {
-          "package_name": "com.hitchify.hitchify"
+          "package_name": "com.example.coride"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "632782991611-48900b77u4to7ttsr11jpit1c7bkhtd5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.coride",
+            "certificate_hash": "726c0f0a0466f11dfb14af7a59761e1aea7d5e05"
+          }
+        },
+        {
+          "client_id": "632782991611-cc3kd5k0kfsbuu0hf88n95tmakqg82lu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
-          "current_key": "AIzaSyDzIJNbXo5yBAbM2Cuu9t_3tXBuAYnqUqM"
+          "current_key": "AIzaSyC1p2Qo9JlMs63Q4ZERukJ7LMps7vB50d4"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632782991611-cc3kd5k0kfsbuu0hf88n95tmakqg82lu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632782991611:android:cb91da64ea67653d0a405e",
+        "android_client_info": {
+          "package_name": "com.example.poolingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632782991611-7oeckl1pd2m05a8hguhgn5ta40impu4q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.poolingapp",
+            "certificate_hash": "726c0f0a0466f11dfb14af7a59761e1aea7d5e05"
+          }
+        },
+        {
+          "client_id": "632782991611-cc3kd5k0kfsbuu0hf88n95tmakqg82lu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1p2Qo9JlMs63Q4ZERukJ7LMps7vB50d4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632782991611-cc3kd5k0kfsbuu0hf88n95tmakqg82lu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632782991611:android:160c695cd8a308610a405e",
+        "android_client_info": {
+          "package_name": "com.hitchify.hitchify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632782991611-cc3kd5k0kfsbuu0hf88n95tmakqg82lu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1p2Qo9JlMs63Q4ZERukJ7LMps7vB50d4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632782991611-cc3kd5k0kfsbuu0hf88n95tmakqg82lu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
