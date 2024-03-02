@@ -7,7 +7,7 @@
     <application
         android:label="CoRide"
         android:name="${applicationName}"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/coride_high">
 <!--        tools:overrideLibrary="io.flutter.plugins.googlemaps">-->
         <activity
             android:name=".MainActivity"
